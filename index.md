@@ -16,6 +16,6 @@ name = input("Enter name: ")
 print(name)
 ```
 
-- [] Turn on GitHub Pages
-- [] Outline my portfolio
-- [] Introduce myself to the world
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
